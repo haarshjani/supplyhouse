@@ -4,7 +4,6 @@
 Files to Observer :
 
 Fixture folders for dummy data
-—————————————————————————————
 
 src/main/java/com/supplyhouse/supplyhouse/controllers
 
