@@ -1,0 +1,10 @@
+{
+    "id" : "uuidv4",
+    "startDate" : "2024-10-03",
+    "endDate" :  "2024-10-12",
+    "startTime" : "08:45:000",
+    "endTime" : "19:45:000",
+    "title" : "Questions?",
+    "description" : "Our Customer support will be opening late today . We appologize for any inconvenience",
+    "isActive" : "true"
+}

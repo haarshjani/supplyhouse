@@ -1,0 +1,16 @@
+.container-shd, .container-shd-outer{
+    display: flex;
+    flex-direction: column ;
+    align-items: flex-start;
+    
+
+}
+#container-shd, .container-shd{
+    padding-top: 20px;
+}
+.schedule, .schedule-sh{
+    margin: 0;
+}
+#schedule-sh, .schedule-sh{
+    color: red;
+}
