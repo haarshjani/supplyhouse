@@ -43,7 +43,7 @@ const CommunicationDetails = (props) => {
       const startTime = moment(serviceHours.startTime,"hh:mm")
       const endTime = moment(serviceHours.endTime , "hh:mm")
 
-      isAvailable = time.isBetween(startTime, endTime), moment("")
+      isAvailable = time.isBetween(startTime, endTime)
 
     }
     console.log("Service details",serviceHours, isAvailable)
