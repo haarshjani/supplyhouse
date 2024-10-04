@@ -5,16 +5,16 @@
 1. Fixture folders for dummy data
 
 
-## src/main/java/com/supplyhouse/supplyhouse/controllers
+### src/main/java/com/supplyhouse/supplyhouse/controllers
 
 1. For HTTP methods API endpoints, URLs , Request and Response Details
 
 
-## src/main/java/com/supplyhouse/supplyhouse/models
+### src/main/java/com/supplyhouse/supplyhouse/models
 
 1. For entity models (POJO classes)
 
-## src/main/java/com/supplyhouse/supplyhouse/services
+### src/main/java/com/supplyhouse/supplyhouse/services
 
 For Services class , Methods required to Implement
 
