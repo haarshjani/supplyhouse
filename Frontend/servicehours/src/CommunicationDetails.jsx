@@ -71,7 +71,7 @@ const CommunicationDetails = (props) => {
                         </span>
                          <span className="comm-details">
                             <p style={{display:"list-item", color : `${isServiceAvailable || comm.medium === "Email" ? "green" : "lightgrey"}`, fontSize:"1.5rem", width : "15px", listStylePosition : "inside",}}></p>
-                            <p>Available {moment().format("h:mm A")}</p>
+                            <p>{comm.medium === "Email" ? "Response by sun" : 'Available ' + moment().format("h:mm A")}</p>
                         </span>
                     
                     </span>
